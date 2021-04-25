@@ -2124,6 +2124,7 @@ body {
 
   .tovar-item__box {
     flex-direction: column;
+	  padding-top:0px;
   }
 
   .tovar-item__pic {
