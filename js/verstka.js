@@ -9860,7 +9860,7 @@ $(document).ready(function () {
 });
 
 function showDefaultImage(img) {
-	$(img).attr('src', '../img/7.png'); // адрес альтернативной картинки
+	$(img).attr('src', 'img/7.png'); // адрес альтернативной картинки
 	$(img).off("error");
 };
 
